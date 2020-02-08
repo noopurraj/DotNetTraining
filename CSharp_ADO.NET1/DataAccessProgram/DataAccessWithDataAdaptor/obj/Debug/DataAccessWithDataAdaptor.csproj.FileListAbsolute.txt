@@ -1,0 +1,11 @@
+C:\Users\BLTuser.BLT30\source\repos\DataAccessProgram\DataAccessWithDataAdaptor\bin\Debug\DataAccessWithDataAdaptor.exe.config
+C:\Users\BLTuser.BLT30\source\repos\DataAccessProgram\DataAccessWithDataAdaptor\bin\Debug\DataAccessWithDataAdaptor.exe
+C:\Users\BLTuser.BLT30\source\repos\DataAccessProgram\DataAccessWithDataAdaptor\bin\Debug\DataAccessWithDataAdaptor.pdb
+C:\Users\BLTuser.BLT30\source\repos\DataAccessProgram\DataAccessWithDataAdaptor\obj\Debug\DataAccessWithDataAdaptor.csprojAssemblyReference.cache
+C:\Users\BLTuser.BLT30\source\repos\DataAccessProgram\DataAccessWithDataAdaptor\obj\Debug\DataAccessWithDataAdaptor.Form1.resources
+C:\Users\BLTuser.BLT30\source\repos\DataAccessProgram\DataAccessWithDataAdaptor\obj\Debug\DataAccessWithDataAdaptor.Properties.Resources.resources
+C:\Users\BLTuser.BLT30\source\repos\DataAccessProgram\DataAccessWithDataAdaptor\obj\Debug\DataAccessWithDataAdaptor.csproj.GenerateResource.cache
+C:\Users\BLTuser.BLT30\source\repos\DataAccessProgram\DataAccessWithDataAdaptor\obj\Debug\DataAccessWithDataAdaptor.csproj.CoreCompileInputs.cache
+C:\Users\BLTuser.BLT30\source\repos\DataAccessProgram\DataAccessWithDataAdaptor\obj\Debug\DataAccessWithDataAdaptor.exe
+C:\Users\BLTuser.BLT30\source\repos\DataAccessProgram\DataAccessWithDataAdaptor\obj\Debug\DataAccessWithDataAdaptor.pdb
+C:\Users\BLTuser.BLT30\source\repos\DataAccessProgram\DataAccessWithDataAdaptor\obj\Debug\DataAccessWithDataAdaptor.Form2.resources
