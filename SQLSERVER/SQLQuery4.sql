@@ -1,0 +1,11 @@
+select getdate() as 'current date';
+select empname, datediff(yy,DOB,getdate()) as age from employee;
+select day(getdate()) as 'day';
+select month(getdate()) as 'month';
+select year(getdate()) as 'year';
+select empname,len(empname) as 'length' from employee;
+select upper(empname) as 'uppercase', lower(empname) as 'lowercase' from employee;
+select empname,substring(empname.1,5) as 'partname' from employee;
+select substring('good morning everybody',1,10);
+select empname, reverse(empname) as 'name reversed' from employee;
+select replace('good morning','morning','evening') as 'greetings';
