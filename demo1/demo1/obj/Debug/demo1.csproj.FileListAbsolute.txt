@@ -1,0 +1,7 @@
+C:\Users\BLTuser.BLT30\source\repos\demo1\demo1\bin\Debug\demo1.exe.config
+C:\Users\BLTuser.BLT30\source\repos\demo1\demo1\bin\Debug\demo1.exe
+C:\Users\BLTuser.BLT30\source\repos\demo1\demo1\bin\Debug\demo1.pdb
+C:\Users\BLTuser.BLT30\source\repos\demo1\demo1\obj\Debug\demo1.csprojAssemblyReference.cache
+C:\Users\BLTuser.BLT30\source\repos\demo1\demo1\obj\Debug\demo1.csproj.CoreCompileInputs.cache
+C:\Users\BLTuser.BLT30\source\repos\demo1\demo1\obj\Debug\demo1.exe
+C:\Users\BLTuser.BLT30\source\repos\demo1\demo1\obj\Debug\demo1.pdb
