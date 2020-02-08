@@ -1,0 +1,6 @@
+C:\Users\BLTuser.BLT30\source\repos\avg\avg\bin\Debug\avg.exe.config
+C:\Users\BLTuser.BLT30\source\repos\avg\avg\bin\Debug\avg.exe
+C:\Users\BLTuser.BLT30\source\repos\avg\avg\bin\Debug\avg.pdb
+C:\Users\BLTuser.BLT30\source\repos\avg\avg\obj\Debug\avg.csproj.CoreCompileInputs.cache
+C:\Users\BLTuser.BLT30\source\repos\avg\avg\obj\Debug\avg.exe
+C:\Users\BLTuser.BLT30\source\repos\avg\avg\obj\Debug\avg.pdb
